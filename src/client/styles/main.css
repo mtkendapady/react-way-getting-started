@@ -2,11 +2,13 @@
 .appRoot {
   border: 2px solid blue;
   padding: 10px;
+  text-align: center;
 }
 
 .cart {
   border: 2px solid red;
   padding: 10px;
+  text-align: center;
 }
 .item {
   border: 2px solid green;

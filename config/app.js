@@ -1,5 +1,5 @@
 var config = {};
 
-config.title = 'My React App';
+config.title = "Matangi's React App";
 
 module.exports = config;

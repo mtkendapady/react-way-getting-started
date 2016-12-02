@@ -8,16 +8,24 @@ var state = {
     title: 'My Cart',
     items: [
       {
-        title: 'Item 1',
-        price: 12
+        title: 'Paw Patrol Adventure Kit',
+        price: 12,
+        age: 'ages 2-6 yrs'
       },
       {
-        title: 'Item 2',
-        price: 21
+        title: 'Frozen Elsa Doll',
+        price: 21,
+        age: 'ages 3-9 yrs'
       },
       {
-        title: 'Item 3',
-        price: 33
+        title: 'Copic Artist Pens',
+        price: 33,
+        age: 'ages 12 yrs and up'
+      },
+      {
+        title: 'Maroon Twin Bed Set',
+        price: 15,
+        age: 'everyone'
       }
     ]
   }

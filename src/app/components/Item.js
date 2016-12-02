@@ -19,7 +19,7 @@ class Item extends React.Component {
    * @returns {JSX}
    */
   render () {
-    return <li className="item">{this.props.item.title} - ${this.props.item.price}</li>;
+    return <li className="item">{this.props.item.title} <br/> ${this.props.item.price} <br/> For {this.props.item.age}</li>;
   }
 }
 
